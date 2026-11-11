@@ -1,2 +1,1 @@
-# storage
-storage.
+storage nothing to see.
