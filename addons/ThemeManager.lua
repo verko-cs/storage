@@ -1,4 +1,3 @@
--- Applies and saves color palettes; it only changes Library colors and registered UI colors.
 local ThemeManager = {}
 local HttpService = game:GetService("HttpService")
 
