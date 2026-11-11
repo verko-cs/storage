@@ -1,4 +1,3 @@
--- Saves registered Library options as JSON data; loading never executes a config file.
 local SaveManager = {}
 local HttpService = game:GetService("HttpService")
 
